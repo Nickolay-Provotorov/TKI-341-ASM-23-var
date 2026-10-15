@@ -21,4 +21,7 @@
 
 Код программы находится [здесь](lab2.asm).
 ##
+
+Дамп памяти
+
 <img width="1852" height="1120" alt="image" src="https://github.com/user-attachments/assets/def3ed0f-c320-4663-9275-e20ad1faf0ac" />
