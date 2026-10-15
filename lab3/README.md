@@ -14,3 +14,7 @@
 
 ---
 ### Текст программы находится [здесь](lab3.asm)
+
+### Результат выполнения работы 
+
+<img width="1856" height="1126" alt="image" src="https://github.com/user-attachments/assets/95c4224d-0709-404f-82f3-6a453625e545" />
